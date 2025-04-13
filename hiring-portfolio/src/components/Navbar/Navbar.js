@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./Navbar.css";
 
 export const Navbar = () => {
   const [click, setClick] = useState(false);
@@ -17,18 +18,24 @@ export const Navbar = () => {
           <a className="navbar-logo" href="/">
             Portfolio
           </a>
-          <div onClick={menuClick}>
+          <div className="menu-icon" onClick={menuClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
           </div>
-          <ul>
+          <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item" onClick={closeMobileMenu}>
-              <a href="#home">Home</a>
+              <a className={"nav-links"} href="#home">
+                Home
+              </a>
             </li>
             <li className="nav-item" onClick={closeMobileMenu}>
-              <a href="#services">Services</a>
+              <a className={"nav-links"} href="#services">
+                Services
+              </a>
             </li>
             <li className="nav-item" onClick={closeMobileMenu}>
-              <a href="#products">Products</a>
+              <a className={"nav-links"} href="#products">
+                Products
+              </a>
             </li>
           </ul>
         </div>
