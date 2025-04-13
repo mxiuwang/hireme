@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "Experience/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "Experience/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "Experience/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "Experience/node.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "Experience/graphql.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "Experience/figma.png"
+  }
+]

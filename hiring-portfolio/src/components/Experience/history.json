@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Meta",
+    "startDate": "July, 2022",
+    "endDate": "October, 2024",
+    "experiences": [
+      "Worked on Instagram Web, Messenger Desktop",
+      "Built a lot of GIFs"
+    ],
+    "imageSrc": "Experience/meta.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Zynga",
+    "startDate": "May, 2021",
+    "endDate": "August, 2021",
+    "experiences": [
+      "Worked on Payments",
+      "Basically, I helped people buy cows in FarmVille"
+    ],
+    "imageSrc": "Experience/zynga.svg"
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Netflix",
+    "startDate": "January, 2020",
+    "endDate": "August, 2020",
+    "experiences": ["Built a lot of Git libraries", "We love Quickbooks"],
+    "imageSrc": "Experience/intuit.png"
+  }
+]

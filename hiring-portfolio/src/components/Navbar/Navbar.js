@@ -16,7 +16,7 @@ export const Navbar = () => {
       <nav className="navbar">
         <div className="navbar-container">
           <a className="navbar-logo" href="/">
-            Portfolio
+            Hi It's Michelle
           </a>
           <div className="menu-icon" onClick={menuClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
@@ -28,13 +28,18 @@ export const Navbar = () => {
               </a>
             </li>
             <li className="nav-item" onClick={closeMobileMenu}>
-              <a className={"nav-links"} href="#services">
-                Services
+              <a className={"nav-links"} href="#experience">
+                Experience
               </a>
             </li>
             <li className="nav-item" onClick={closeMobileMenu}>
               <a className={"nav-links"} href="#products">
-                Products
+                Fun Facts
+              </a>
+            </li>
+            <li className="nav-item" onClick={closeMobileMenu}>
+              <a className={"nav-links"} href="#products">
+                Others
               </a>
             </li>
           </ul>
