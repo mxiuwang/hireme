@@ -33,9 +33,7 @@
   display: grid;
   grid-template-columns: repeat(4, auto);
   grid-gap: 10px;
-  list-style: none;
-  text-align: center;
-  width: 60vw;
+  width: 28vw;
   justify-content: end;
   margin-right: 2rem;
 }
@@ -58,8 +56,10 @@
   transition: all 0.2s ease-out;
 }
 
-.fa-bars {
+.fa-bars,
+.fa-times {
   color: #fff;
+  padding-left: 20em;
 }
 
 .nav-links-mobile {
@@ -116,13 +116,10 @@
     transform: translate(25%, 50%);
   }
 
-  .fa-times {
-    color: #fff;
-    font-size: 2rem;
-  }
-
+  .fa-times,
   .fa-bars {
     color: #fff;
+    font-size: 2rem;
   }
 
   .nav-links-mobile {

@@ -5,14 +5,14 @@
 }
 
 .experience-title {
-  color: black;
+  color: var(--color-text);
   font-size: 35px;
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  text-align: left;
+  text-align: center;
   padding-left: 2em;
   padding-top: 1em;
 }
