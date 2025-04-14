@@ -28,18 +28,13 @@ export const Navbar = () => {
               </a>
             </li>
             <li className="nav-item" onClick={closeMobileMenu}>
+              <a className={"nav-links"} href="#perks">
+                Perks
+              </a>
+            </li>
+            <li className="nav-item" onClick={closeMobileMenu}>
               <a className={"nav-links"} href="#experience">
                 Experience
-              </a>
-            </li>
-            <li className="nav-item" onClick={closeMobileMenu}>
-              <a className={"nav-links"} href="#products">
-                Fun Facts
-              </a>
-            </li>
-            <li className="nav-item" onClick={closeMobileMenu}>
-              <a className={"nav-links"} href="#products">
-                Others
               </a>
             </li>
           </ul>

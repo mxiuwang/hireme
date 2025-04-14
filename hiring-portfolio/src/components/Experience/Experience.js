@@ -6,7 +6,7 @@ import skills from "./skills.json";
 
 export const Experience = () => {
   return (
-    <section classnName="experience-container" id="experience">
+    <section className="experience-container" id="experience">
       <h2 className="experience-title">Things I worked on</h2>
       <div className="experience-content">
         <div className="experience-skills">
