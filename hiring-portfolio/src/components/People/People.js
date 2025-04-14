@@ -14,6 +14,15 @@ export const People = () => {
         {people.map((people, id) => {
           return <PeopleCard key={id} person={people} />;
         })}
+        <h3 className="footer">
+          {
+            "Thanks for reading this far. If u wanna hire me pls let me know thanks:)"
+          }
+          <br></br> <br></br>
+          {
+            "Contact section coming soon!! It's currently 2am and I'm too tired to it."
+          }
+        </h3>
       </div>
     </section>
   );
