@@ -1,5 +1,13 @@
 [
   {
+    "title": "React",
+    "imageSrc": "Experience/react.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "Experience/python.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "Experience/html.png"
   },
@@ -8,16 +16,16 @@
     "imageSrc": "Experience/css.png"
   },
   {
-    "title": "React",
-    "imageSrc": "Experience/react.png"
-  },
-  {
     "title": "Node",
     "imageSrc": "Experience/node.png"
   },
   {
     "title": "GraphQL",
     "imageSrc": "Experience/graphql.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "Experience/sql.png"
   },
   {
     "title": "Figma",
