@@ -37,6 +37,11 @@ export const Navbar = () => {
                 Experience
               </a>
             </li>
+            <li className="nav-item" onClick={closeMobileMenu}>
+              <a className={"nav-links"} href="#people">
+                People
+              </a>
+            </li>
           </ul>
         </div>
       </nav>

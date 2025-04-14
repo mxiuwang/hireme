@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Paola Rohuede",
+    "imageSrc": "Images/People/paola.png",
+    "skills": ["We both like building websites", "Big fan of Chilean food"]
+  },
+  {
+    "title": "Bianca Ramirez",
+    "imageSrc": "Images/People/bianca.jpg",
+    "skills": ["I love food omg", "Teach me how to do my hair like yours"]
+  },
+  {
+    "title": "Elise Cheung",
+    "imageSrc": "Images/People/elise.jpg",
+    "skills": [
+      "Her designs are extremely cute",
+      "She can bring me to eat Ghanian food"
+    ]
+  },
+  {
+    "title": "Ivan Lychno",
+    "imageSrc": "Images/People/ivan.png",
+    "skills": ["beep boop", "Can u teach me how to work out"]
+  },
+  {
+    "title": "Joanna Ibanez",
+    "imageSrc": "Images/People/joanna.jpg",
+    "skills": ["She has an insanely cute dog", "True crime documentaries"]
+  },
+  {
+    "title": "Jada Richter",
+    "imageSrc": "Images/People/jada.jpeg",
+    "skills": [
+      "Makes weird Gen Z Tiktoks that are somehow really funny",
+      "probably has a good sense of humor"
+    ]
+  }
+]
