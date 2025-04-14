@@ -20,7 +20,7 @@ export const People = () => {
           }
           <br></br> <br></br>
           {
-            "Contact section coming soon!! It's currently 2am and I'm too tired to it."
+            "Contact section coming soon!! It's currently 2am and I'm too tired to do it."
           }
         </h3>
       </div>
