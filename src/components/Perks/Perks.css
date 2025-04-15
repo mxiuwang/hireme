@@ -7,11 +7,12 @@
   z-index: 1;
   margin-left: 5%;
   margin-right: 5%;
+  font-family: "Atma";
 }
 
 .title {
   color: var(--color-text);
-  font-size: 35px;
+  font-size: 45px;
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
